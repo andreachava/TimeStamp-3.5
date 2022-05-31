@@ -11,7 +11,7 @@
         android:theme="@style/Theme.CalendarAppExample">
         <activity
             android:name=".WeekViewActivity"
-            android:exported="false" />
+            android:exported="true" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

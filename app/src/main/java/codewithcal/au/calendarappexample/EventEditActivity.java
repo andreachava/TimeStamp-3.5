@@ -9,8 +9,7 @@ import android.widget.TextView;
 
 import java.time.LocalTime;
 
-public class EventEditActivity extends AppCompatActivity
-{
+public class EventEditActivity extends AppCompatActivity {
     private EditText eventNameET;
     private TextView eventDateTV, eventTimeTV;
 
